@@ -1,8 +1,11 @@
+term
+: definition
+
 # Call of Duty: Modern Warfare
 ## S1 Missions
 - [ ] Boot Camp
 	- [x] Complete 1 Public Match
-> 	500 XP ; Fire Warriors (Calling card)
+	> 500 XP ; Fire Warriors (Calling card)
 	- [x] Get 5 Public Match Kills
 > 	1000 XP ; Fab Five (Spray)
 	- [ ] Call in a Killstreak
